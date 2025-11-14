@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 edit on my computer 
-=======
-edit on github
->>>>>>> 5ca059c005092ea2308944656e55d1e133f84c52
+
+
